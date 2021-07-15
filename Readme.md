@@ -1,4 +1,4 @@
-# Video Classification with convLSTM neural network
+# Instagram Video Classification with convLSTM neural network
 ## 1. Description
 
 This is a bachelor project from university of Groningen. This project aim to classify the environment of video from Instagram. There are 5 classes of video environment. 
